@@ -8,3 +8,4 @@ Created on Tue Mar  8 17:27:05 2022
 Nombre = input("¿Como te llamas? -> ")
 Edad = int(input("¿Que edad tienes? -> "))
 print(f"Tu nombre es {Nombre} y tienes {Edad} años")
+print("Payaso")
